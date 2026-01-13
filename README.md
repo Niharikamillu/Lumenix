@@ -1,34 +1,76 @@
-Create a high-end luxury product image using the first image as the main reference.
+AI Image Generation – Luxury Handbag (Prompt Engineering)
+Overview
 
-PRODUCT DETAILS:
-- Keep the handbag upright in a three-quarter front view.
-- The full bag should be clearly visible.
-- Do not change the hand position or pose.
-- Make both sides of the top handle look identical:
-  • Add metallic rings on the right side of the handle, matching the left side exactly.
-  • The handle attachments should look perfectly balanced on both sides.
+This project showcases prompt engineering for AI-based image generation, focused on creating a high-end luxury handbag product image. The objective was to achieve a realistic, premium visual suitable for luxury brand marketing by carefully designing and refining prompts with clear input–output constraints.
 
-CRYSTAL CLARITY (VERY IMPORTANT):
-- Improve the bag surface so it clearly looks like it is made from individual glass crystals.
-- Each crystal should look solid, clear, and realistic, not like glitter or shimmer.
-- Show clear crystal edges, depth, and light reflection similar to luxury crystal clutches.
+All results were achieved through prompt design only, without any manual image editing.
 
-BRANDING:
-- Use the brand name “Lumenix”.
-- Place the brand name on the center of the bag.
-- The plate should have a soft copper finish.
-- Position the branding plate on the bottom-right side of the bag.
-- Keep the branding minimal, elegant, and premium.
+Reference & Approach
 
-LIGHTING & QUALITY:
-- Use soft studio lighting with gentle highlights.
-- Keep the entire bag in sharp focus.
-- Do not blur the background.
-- Maintain clean edges and realistic textures.
+Used an existing image as the primary visual reference
 
-BACKGROUND:
-- Use a clean and elegant background similar to high-end product photos.
-- Neutral tones that match a luxury fashion brand.
+Enhanced realism, symmetry, and branding through iterative prompt refinement
 
-FINAL LOOK:
-- The image should look realistic, clean, and suitable for luxury brand marketing.
+Controlled output quality by specifying strict visual and structural constraints
+
+Prompt Objectives
+
+Product & Composition
+
+Upright handbag in a three-quarter front view
+
+Entire bag fully visible
+
+Original hand position and pose preserved
+
+Symmetrical top handle with matching metallic rings on both sides
+
+
+Crystal Surface Realism
+
+Surface composed of individual glass crystals
+
+Clear crystal edges, depth, and realistic light reflection
+
+Avoided glitter or shimmer effects
+
+Matched the look of luxury crystal clutches
+
+
+Branding
+
+Brand name: Lumenix
+
+Minimal, elegant branding
+
+Soft copper-finished plate placed near the bottom-right area of the bag
+
+
+Lighting & Background
+
+Soft studio lighting with subtle highlights
+
+Sharp focus across the entire product
+
+Clean, neutral background suitable for luxury fashion brands
+
+
+Final Output
+
+High-quality, realistic luxury product image
+
+Clean textures, balanced composition, and premium aesthetics
+
+Result of structured prompting and multiple refinement iterations
+
+
+Skills Demonstrated
+
+Prompt engineering for AI image generation
+
+Input–output instruction design
+
+Visual realism and consistency control
+
+Branding-aware prompt creation
+
