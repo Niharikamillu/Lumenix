@@ -1,4 +1,5 @@
 AI Image Generation – Luxury Handbag (Prompt Engineering)
+
 Overview
 
 This project showcases prompt engineering for AI-based image generation, focused on creating a high-end luxury handbag product image. The objective was to achieve a realistic, premium visual suitable for luxury brand marketing by carefully designing and refining prompts with clear input–output constraints.
